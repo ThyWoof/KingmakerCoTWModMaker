@@ -31,7 +31,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ReferencePath>$(PATHFINDER_HOME)\Kingmaker_Data\Managed;$(PATHFINDER_HOME)\Kingmaker_Data\Managed\UnityModManager;$(PATHFINDER_HOME)\Mods</ReferencePath>
+    <ReferencePath>$(KINGMAKER_HOME)\Kingmaker_Data\Managed;$(KINGMAKER_HOME)\Kingmaker_Data\Managed\UnityModManager;$(KINGMAKER_HOME)\Mods\CallOfTheWild</ReferencePath>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="0Harmony12">
