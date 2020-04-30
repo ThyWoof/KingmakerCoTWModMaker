@@ -1,0 +1,11 @@
+{
+  "Id": "CoTWModMaker",
+  "DisplayName": "CoTW Mod Maker",
+  "Author": "ThyWoof",
+  "Version": "0.0.1",
+  "ManagerVersion": "0.13.0",
+  "Requirements": [ "CallOfTheWild" ],
+  "AssemblyName": "CoTWModMaker.dll",
+  "HomePage": "",
+  "EntryMethod": "CoTWModMaker.Main.Load"
+}
